@@ -1,0 +1,54 @@
+#title {
+  background-color: #f9f5ed;
+}
+.container-fluid {
+  padding: 4% 7% 15%;
+}
+.navbar-nav > li {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.title-text {
+  font-size: 4rem;
+  line-height: 4rem;
+  max-width: 346px;
+  align-items: flex-start;
+  margin-top: 15%;
+  margin-bottom: 15%;
+  margin-left: 3%;
+  font-family: "Stardos Stencil", cursive;
+}
+
+#face-section {
+  background-color: #f9f5ed;
+  padding: 5% 17%;
+}
+
+#slider {
+  column-gap: 40px;
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+}
+
+li {
+  margin: 10px 10px;
+  display: list-item;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+#intro-section {
+  padding-bottom: 3%;
+  margin-bottom: 30%;
+  column-gap: 40px;
+}
+
+.row {
+  padding-top: 50px;
+}
